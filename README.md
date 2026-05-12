@@ -6,10 +6,6 @@ worldwide. The goal is to identify patterns that determine commercial success
 across platforms, genres, and regions to support data-driven acquisition and 
 advertising strategies for 2017.
 
-## Note on Language
-The Jupyter notebook and internal comments are currently in Spanish.
-An English version is in progress.
-
 ## Tools & Libraries
 Python · Pandas · SciPy · Seaborn · Matplotlib
 
